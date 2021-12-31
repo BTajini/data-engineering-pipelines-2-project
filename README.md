@@ -1,5 +1,7 @@
 # Data pipelines 2 project
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5812415.svg)](https://doi.org/10.5281/zenodo.5812415)
+
 > **Author:**
 > [Badr Tajini](https://scholar.google.fr/citations?user=YuxT3tYAAAAJ&hl=en) <br>
 
