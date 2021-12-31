@@ -133,9 +133,14 @@ Architecture of our OliDiscovery application generated thanks to PlantUML as you
 ## Citation
 If you find this repository useful in your work or research, please cite:
 ```
-@inproceedings{tajini2022,
-  author={Tajini, Badr},
-  title={Data pipelines 2 project},
-  year={2022}
+@software{badr_tajini_2022_5812415,
+  author       = {Badr Tajini},
+  title        = {data-engineering-pipelines-2-project},
+  month        = jan,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.5812415},
+  url          = {https://doi.org/10.5281/zenodo.5812415}
 }
 ```
