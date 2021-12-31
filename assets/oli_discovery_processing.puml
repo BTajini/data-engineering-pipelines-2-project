@@ -1,0 +1,79 @@
+@startuml Olist_Discovery
+
+start
+if ("olist orders dataset" csvfile is stored locally?) then (true)
+else (false)
+:Download dataset from Kaggle;
+endif
+if (Successfully downloaded and data is stored locally?) then (true)
+else (false)
+:Dataset "not found", ask the maintainer of the code;
+if (Response?) then (true)
+else(false)
+:Google or "no dataset.., error";
+stop
+endif
+endif
+
+
+:Command-line Menu with parameters;
+if (Case choice is recognized ) then (true)
+else(false)
+:Repeat the steps with the correct parameters;
+endif
+if (Create dataframe "orders delayed deliveries 10 Days" with option1) then (true)
+:Create "orders delayed deliveries 10 Days" query with the new delivery delay in days column;
+elseif (Create dataframe "orders delayed deliveries 10 Days" with option2) then (true)
+:Create "orders delayed deliveries 10 Days" query with the new delivery delay in days and daylight saving time columns;
+else(false)
+:Repeat the steps with the correct parameters;
+if (Program is working) then (false)
+stop
+else (true)
+endif
+endif
+if (Success?) then (true)
+:Export the result in a csv file;
+else (false)
+:Check the paramaters in CLI Menu or the SQL query;
+if (The output result is done correctly ?) then (false)
+stop
+endif
+endif
+if (Success?) then (true)
+:Test your project and coverage report with Unit testing and scoverage;
+else (false)
+:Check the logic of your code;
+if (The code is working ?) then (false)
+stop
+endif
+endif
+if (Success?) then (true)
+:Package your project with assembly;
+else (false)
+:Check the logic of your code;
+if (The assembly is working ?) then (false)
+stop
+endif
+endif
+if (Success?) then (true)
+:Run your fat jar file with Spark-submit;
+else (false)
+:Check if you are using  the class SparkCli in Spark-submit;
+if (The run with Spark-submit is working ?) then (false)
+stop
+endif
+endif
+if (Success?) then (true)
+:Try your fat jar file with Spark-submit on Amazon EMR;
+else (false)
+:Check if you are using  the class SparkCli in Spark-submit with the client mode;
+if (The run with Spark-submit on Amazon EMR is working ?) then (false)
+stop
+endif
+endif
+:Project done...;
+stop
+@enduml
+
+
