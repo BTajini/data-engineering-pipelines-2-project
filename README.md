@@ -108,11 +108,11 @@ Choose the project you want to run by processing this command:
 >Please read carefully the Readme of each project to run the commands properly.
 >- Readme of Oli Discovery application project :
 >
->   [Readme](oli_discovery_app/Readme.md)
+>   [Readme](oli_discovery_app/README.md)
 >
 >- Readme of Bad encoding project : 
 >
->   [Readme](bad_encoding/Readme.md)
+>   [Readme](bad_encoding/README.md)
 
 [Back to top](#)
 
