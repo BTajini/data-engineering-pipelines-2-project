@@ -1,6 +1,6 @@
 # Data pipelines 2 project
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5812415.svg)](https://doi.org/10.5281/zenodo.5812415)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5812987.svg)](https://doi.org/10.5281/zenodo.5812987)
 
 > **Author:**
 > [Badr Tajini](https://scholar.google.fr/citations?user=YuxT3tYAAAAJ&hl=en) <br>
@@ -133,14 +133,14 @@ Architecture of our OliDiscovery application generated thanks to PlantUML as you
 ## Citation
 If you find this repository useful in your work or research, please cite:
 ```
-@software{badr_tajini_2022_5812415,
+@software{badr_tajini_2022_5812987,
   author       = {Badr Tajini},
   title        = {data-engineering-pipelines-2-project},
   month        = jan,
   year         = 2022,
   publisher    = {Zenodo},
-  version      = {1.0},
-  doi          = {10.5281/zenodo.5812415},
-  url          = {https://doi.org/10.5281/zenodo.5812415}
+  version      = {1.1},
+  doi          = {10.5281/zenodo.5812987},
+  url          = {https://doi.org/10.5281/zenodo.5812987}
 }
 ```
