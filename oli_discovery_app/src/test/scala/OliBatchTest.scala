@@ -60,7 +60,7 @@ class OliBatchTest extends AnyFunSuite with DataFrameSuiteBase {
 
                 println("************Testing SparkCli_report_option2...************")
                 val SparkCli_report_option2 = SparkCli.main(Array("report_option2", csvfile, testing))
-                println("SparkCli option2 is working...")
+                println("SparkCli report option2 is working...")
                 println("************Testing SparkCli_report_option2 done...************")
 
                 println("************Testing SparkCli_nocommand...************")
@@ -68,8 +68,16 @@ class OliBatchTest extends AnyFunSuite with DataFrameSuiteBase {
                 println("SparkCli no command is working...")
                 println("************Testing SparkCli_nocommand done...************")
                 
-                //println("Testing SparkCli done")
-                // TODO adding assert for all those functions and testing condition in menu
+                val testing_condition = "false"
+                println("************Testing SparkCli_report_option1_testing_condition...************")
+                val SparkCli_report_option1_testing_condition = SparkCli.main(Array("report_option1", csvfile, testing_condition))
+                println("SparkCli report option1 with testing condition is working...")
+                println("************Testing SparkCli_report_option1_testing_condition done...************")
+
+                println("************Testing SparkCli_report_option2_testing_condition...************")
+                val SparkCli_report_option2_testing_condition = SparkCli.main(Array("report_option2", csvfile, testing_condition))
+                println("SparkCli report option2 with testing condition is working...")
+                println("************Testing SparkCli_report_option2_testing_condition done...************")
                 
         }
         
