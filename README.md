@@ -1,8 +1,8 @@
 # Data pipelines 2 project
 
-![Maintainer](https://img.shields.io/badge/maintainer-BTajini-blue) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5812987.svg)](https://doi.org/10.5281/zenodo.5812987) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](https://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project.svg?style=flat-square)](http://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project) [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
+![Maintainer](https://img.shields.io/badge/maintainer-BTajini-blue) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5812987.svg)](https://doi.org/10.5281/zenodo.5812987) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://github.com/BTajini/data-engineering-pipelines-2-project/blob/master/clone.json?raw=True&logo=github)](https://github.com/BTajini/data-engineering-pipelines-2-project)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://github.com/BTajini/data-engineering-pipelines-2-project/blob/master/clone.json?raw=True&logo=github)](https://github.com/BTajini/data-engineering-pipelines-2-project) [![HitCount](https://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project.svg?style=flat-square)](http://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project)
 
 > **Author:**
 > [Badr Tajini](https://scholar.google.fr/citations?user=YuxT3tYAAAAJ&hl=en) <br>
