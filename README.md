@@ -1,6 +1,6 @@
 # Data pipelines 2 project
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5812987.svg)](https://doi.org/10.5281/zenodo.5812987) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](https://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project.svg?style=flat-square)](http://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project) [![SCALA](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5812987.svg)](https://doi.org/10.5281/zenodo.5812987) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](https://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project.svg?style=flat-square)](http://hits.dwyl.com/BTajini/data-engineering-pipelines-2-project) [(https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)]
 
 > **Author:**
 > [Badr Tajini](https://scholar.google.fr/citations?user=YuxT3tYAAAAJ&hl=en) <br>
